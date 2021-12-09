@@ -19,7 +19,7 @@ Idea: The plan is to create a contest to allow Krause House ticket holders to gu
 Main work to be completed: finalize contest design, collect entries, manage a leaderboard and post updates on Discord, design and distribute POAP to all contestants. 
 
 **RELEVANT LINKS:**
-Details for contest rules: https://docs.google.com/document/d/1s2BDNWkHi_gsxYJsJAD3P1-VJO0fmAdHOKPv5_PDuUU/edit#
+Details for contest rules: https://docs.google.com/document/d/1s2BDNWkHi_gsxYJsJAD3P1-VJO0fmAdHOKPv5_PDuUU/edit?usp=sharing
 
 
 **ADDITIONAL INFO:**
