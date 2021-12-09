@@ -11,6 +11,7 @@
 **WALLET:** 
 
 **SCOPE OF WORK:**
+
 Context: Steph Curry is close to tying (and surpassing) Ray Allen’s all-time record for made 3 pointers. Barring serious injury, Steph will reach the milestone sometime during the 2021 - 2022 season.
 
 Idea: The plan is to create a contest to allow Krause House ticket holders to guess when Steph Curry will surpass Ray Allen and hit the record. The goal of this contest is to build off of the successful NFT launch and create a unique experience for ticket holders. Additionally, we want to leverage the positive momentum within the Krause House to create additional opportunities for community engagement through friendly competition.
