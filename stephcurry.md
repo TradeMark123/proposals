@@ -2,13 +2,13 @@
 
 **MEMBER:** TradeMark
 
-**REQUEST NUMBER:** 
+**REQUEST NUMBER:** TradeMark.StephCurry.1
 
 **RATE:** $250 USDC
 
 **DURATION:** 1 time request, delivered at completion of contest
 
-**WALLET:** 
+**WALLET:** 0xc2fdde809129c09dd34d23c6bee81fd1058107b0
 
 **SCOPE OF WORK:**
 
